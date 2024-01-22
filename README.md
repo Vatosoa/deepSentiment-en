@@ -19,6 +19,7 @@ To install the required dependencies, run the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -28,6 +29,7 @@ Follow these steps to run DeepSentiment:
 
 ```bash
 pip manage.py runserver
+```
 
 ## Dataset Source
 
