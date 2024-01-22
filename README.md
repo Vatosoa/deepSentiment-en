@@ -24,11 +24,12 @@ pip install -r requirements.txt
 ## Usage
 
 Follow these steps to run DeepSentiment:
-1. Ensure dependencies are installed.
-2. Execute the sentiment analysis using the provided script.
+1. Activate your venv
+2. Ensure dependencies are installed.
+3. Execute the sentiment analysis using the provided script.
 
 ```bash
-pip manage.py runserver
+py manage.py runserver
 ```
 
 ## Dataset Source
